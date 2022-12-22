@@ -1,0 +1,34 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+  width: 100%;
+}
+
+.icon-holder {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.icon-image {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #12022f;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.ml {
+  margin-left: auto;
+}
